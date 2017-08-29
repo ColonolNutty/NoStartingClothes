@@ -1,0 +1,6 @@
+[
+  { "op" : "replace", "path" : "/genders/0/shirt", "value" : ["invischestNSC"] },
+  { "op" : "replace", "path" : "/genders/0/pants", "value" : ["invislegsNSC"] },
+  { "op" : "replace", "path" : "/genders/1/shirt", "value" : ["invischestNSC"] },
+  { "op" : "replace", "path" : "/genders/1/pants", "value" : ["invislegsNSC"] }
+]
